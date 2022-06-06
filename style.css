@@ -67,4 +67,17 @@ span{
 .detail a:hover{
     color:purple;
 }
+.images{
+    width: 25%;
+    height: 50%;
+    position: absolute;
+    bottom: 20px;
+    right: 450px;
+}
+.images img{
+    height: 100%;
+    position: absolute;
+    left: 30%;
+    bottom: 20px;
 
+}
